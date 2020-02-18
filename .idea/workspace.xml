@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8c8b945f-228f-4ade-b020-dd4c5b56ebb4" name="Default Changelist" comment="" />
+    <list default="true" id="8c8b945f-228f-4ade-b020-dd4c5b56ebb4" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/FreeCrmContactdata.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Utilpackage/ElementUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Utilpackage/ElementUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Utilpackage/ElementUtils.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Utilpackage/ElementUtils.class" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,6 +21,9 @@
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="JavaAutoRunManager">
     <enabled-run-configurations>
@@ -27,15 +38,24 @@
     </option>
   </component>
   <component name="ProjectId" id="1XqvZWcr2rMDejXVGWM3beSc554" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="C:/kavitha" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/TestData" />
     <property name="settings.editor.selected.configurable" value="preferences.fileTypes" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\MyFirstProjects\com.app.hubspot.com\src\main\java\TestData" />
+      <recent name="C:\MyFirstProjects\com.app.hubspot.com\src\main\resources" />
+    </key>
   </component>
   <component name="RunManager" selected="JUnit.RunTest (1)">
     <configuration name="All Features in: resources" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
@@ -197,14 +217,14 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="1323" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1581982718242" />
-    <state x="184" y="7" key="SettingsEditor" timestamp="1581787578647">
+    <state x="184" y="7" key="SettingsEditor" timestamp="1582062152615">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="184" y="7" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1581787578647" />
-    <state x="379" y="189" key="com.intellij.ide.util.TipDialog" timestamp="1581963526832">
+    <state x="184" y="7" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1582062152615" />
+    <state x="379" y="189" key="com.intellij.ide.util.TipDialog" timestamp="1582057745950">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="379" y="189" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1581963526832" />
+    <state x="379" y="189" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1582057745950" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
