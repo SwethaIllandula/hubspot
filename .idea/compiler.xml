@@ -9,5 +9,8 @@
         <module name="com.app.hubspot.com" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="com.app.hubspot.com" target="1.5" />
+    </bytecodeTargetLevel>
   </component>
 </project>

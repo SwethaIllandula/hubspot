@@ -6,7 +6,7 @@ import org.apache.poi.ss.usermodel.Workbook;
 import org.apache.poi.ss.usermodel.WorkbookFactory;
 import org.openqa.selenium.JavascriptExecutor;
 import org.openqa.selenium.WebDriver;
-import org.openqa.selenium.chrome.ChromeDriver;
+import org.openqa.selenium.WebElement;
 import org.openqa.selenium.interactions.Actions;
 
 import java.io.FileInputStream;
@@ -15,7 +15,7 @@ import java.io.IOException;
 
 public class ElementUtils extends DriverManager{
 
-    public static String TESTDATA_SHEET_PATH = "C:\\MyFirstProjects\\com.app.hubspot.com\\src\\main\\resources";
+    public static String TESTDATA_SHEET_PATH = "com.app.hubspot.com/src/main/resources";
 
    public  static Workbook book;
     static Sheet sheet;
@@ -53,14 +53,27 @@ public class ElementUtils extends DriverManager{
     }
 
 
-   public void actionsToclickElement(){
-       WebDriver driver;
-      driver= new ChromeDriver();
+   public static void actionsToMoveToElement(WebDriver driver,WebElement element){
+      // WebDriver driver;
+     // driver= new ChromeDriver();
        Actions action =new Actions(driver);
+       action.moveToElement(element);
        action.build().perform();
-
-
    }
+
+  public static void actionToClickElement(WebDriver driver, WebElement element) {
+      Actions action =new Actions(driver);
+      //action.moveToElement(element);
+      //action.build().perform();
+      element.click();
+  }
+
+
+
+
+public static void handleFrames(WebElement element){
+        driver.switchTo().frame(element);
+}
 
 
 
