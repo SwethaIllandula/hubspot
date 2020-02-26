@@ -1,6 +1,7 @@
 package steps;
 
 import Utilpackage.DriverManager;
+import org.junit.After;
 import org.junit.Before;
 
 public class Hooks extends DriverManager {
@@ -10,5 +11,8 @@ public class Hooks extends DriverManager {
         DriverManager.openBrowser();
 
     }
-
+    @After
+public void tearDown(){
+        DriverManager.quitBrowser();
+}
 }

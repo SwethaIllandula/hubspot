@@ -1,15 +1,97 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8c8b945f-228f-4ade-b020-dd4c5b56ebb4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/ExcelUtilities/ExcelReader.java" afterDir="false" />
+    <list default="true" id="161c097d-a690-4063-ae10-b4f6ac98a7f2" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_virtuald_curvesapi_1_05.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_virtuald_curvesapi_1_052.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_code_findbugs_jsr305_1_3_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_code_gson_gson_2_8_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_errorprone_error_prone_annotations_2_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_guava_guava_25_0_jre.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_j2objc_j2objc_annotations_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_squareup_okhttp3_okhttp_3_11_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_squareup_okio_okio_1_14_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_codec_commons_codec_1_11.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_io_commons_io_2_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_logging_commons_logging_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__dom4j_dom4j_1_6_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__info_cukes_cucumber_core_1_2_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__info_cukes_cucumber_html_0_2_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__info_cukes_cucumber_java_1_2_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__info_cukes_cucumber_junit_1_2_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__info_cukes_cucumber_jvm_deps_1_0_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__info_cukes_gherkin_2_12_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_github_bonigarcia_webdrivermanager_3_7_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_12.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__log4j_log4j_1_2_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_bytebuddy_byte_buddy_1_8_15.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_collections4_4_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_compress_1_18.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_exec_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_lang3_3_8_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_math3_3_6_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpclient_4_5_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpcore_4_4_10.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_poi_openxml4j_1_0_beta.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_poi_poi_4_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_poi_poi_ooxml_4_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_poi_poi_ooxml_schemas_4_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_poi_poi_scratchpad_4_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_xmlbeans_xmlbeans_3_0_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_checkerframework_checker_compat_qual_2_0_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_mojo_animal_sniffer_annotations_1_14.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_all_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jsoup_jsoup_1_11_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_rauschig_jarchivelib_1_0_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_api_3_141_59.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_chrome_driver_3_141_59.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_edge_driver_3_141_59.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_firefox_driver_3_141_59.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_ie_driver_3_141_59.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_java_3_141_59.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_opera_driver_3_141_59.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_remote_driver_3_141_59.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_safari_driver_3_141_59.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_support_3_141_59.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_25.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__xml_apis_xml_apis_1_0_b2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Pages/CalendarPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/RegressionSuite/CasualRuns.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/steps/CalendarStepDefinitions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/Calendarpage.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/FreeCrmContactdata.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/FreeCrmContactdata.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/com.app.hubspot.com.iml" beforeDir="false" afterPath="$PROJECT_DIR$/com.app.hubspot.com.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Pages/HomePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Pages/HomePage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Utilpackage/ElementUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Utilpackage/ElementUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/steps/HomeStepDefinition.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/steps/HomeStepDefinition.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/steps/Hooks.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/steps/Hooks.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/steps/RunTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/steps/RunTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/Home.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/Home.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/FreeCrmContactdata.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/FreeCrmContactdata.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/com.app.hubspot.com.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Pages/HomePage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Pages/HomePage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Utilpackage/ElementUtils.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Utilpackage/ElementUtils.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Home.feature" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/Home.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/steps/HomeStepDefinition.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/steps/HomeStepDefinition.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/steps/Hooks.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/steps/Hooks.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/steps/RunTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/steps/RunTest.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -21,11 +103,6 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="JavaAutoRunManager">
-    <enabled-run-configurations>
-      <run-configuration type="JUnit" name="RunTest" />
-    </enabled-run-configurations>
-  </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
       <MavenImportingSettings>
@@ -33,7 +110,7 @@
       </MavenImportingSettings>
     </option>
   </component>
-  <component name="ProjectId" id="1XqvZWcr2rMDejXVGWM3beSc554" />
+  <component name="ProjectId" id="1Y5ZWx781pJizEyiSKNa22vijRZ" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -41,62 +118,40 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
-    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/TestData" />
-    <property name="settings.editor.selected.configurable" value="preferences.fileTypes" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.editor" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\MyFirstProjects\com.app.hubspot.com\src\main\java\TestData" />
-      <recent name="C:\MyFirstProjects\com.app.hubspot.com\src\main\resources" />
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="RegressionSuite" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.RunTest (1)">
-    <configuration name="All Features in: resources" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
-      <option name="CUCUMBER_CORE_VERSION" value="1.2" />
-      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources" />
-      <option name="GLUE" value="steps" />
-      <option name="MAIN_CLASS_NAME" value="cucumber.api.cli.Main" />
+  <component name="RunManager" selected="JUnit.RunTest">
+    <configuration name="CasualRuns.checkLocators" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="com.app.hubspot.com" />
-      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvmSMFormatter --monochrome" />
-      <option name="SUGGESTED_NAME" value="All Features in: resources" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="cucumber.api.cli.*" />
+          <option name="PATTERN" value="RegressionSuite.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="RegressionSuite" />
+      <option name="MAIN_CLASS_NAME" value="RegressionSuite.CasualRuns" />
+      <option name="METHOD_NAME" value="checkLocators" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Feature: Home" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
-      <option name="CUCUMBER_CORE_VERSION" value="1.2" />
-      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/Home.feature" />
-      <option name="GLUE" value="steps" />
-      <option name="MAIN_CLASS_NAME" value="cucumber.api.cli.Main" />
-      <module name="com.app.hubspot.com" />
-      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvmSMFormatter --monochrome" />
-      <option name="SUGGESTED_NAME" value="Feature: Home" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="cucumber.api.cli.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Unnamed" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" nameIsGenerated="true">
-      <module name="com.app.hubspot.com" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="RunTest (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="RunTest" type="JUnit" factoryName="JUnit" nameIsGenerated="true">
       <module name="com.app.hubspot.com" />
       <extension name="coverage">
         <pattern>
@@ -104,133 +159,144 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
       <option name="PACKAGE_NAME" value="steps" />
       <option name="MAIN_CLASS_NAME" value="steps.RunTest" />
+      <option name="METHOD_NAME" value="" />
       <option name="TEST_OBJECT" value="class" />
+      <option name="PARAMETERS" value="" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RunTest (2)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="com.app.hubspot.com" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="steps.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="steps" />
-      <option name="MAIN_CLASS_NAME" value="steps.RunTest" />
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="RunTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="com.app.hubspot.com" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Runner.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="Runner" />
-      <option name="MAIN_CLASS_NAME" value="Runner.RunTest" />
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <list>
-      <item itemvalue="Cucumber java.Unnamed" />
-      <item itemvalue="Cucumber java.All Features in: resources" />
-      <item itemvalue="Cucumber java.Feature: Home" />
-      <item itemvalue="JUnit.RunTest" />
-      <item itemvalue="JUnit.RunTest (1)" />
-      <item itemvalue="JUnit.RunTest (2)" />
-    </list>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.RunTest (1)" />
-        <item itemvalue="JUnit.RunTest (2)" />
-        <item itemvalue="JUnit.RunTest" />
-        <item itemvalue="Cucumber java.Feature: Home" />
-        <item itemvalue="Cucumber java.All Features in: resources" />
+        <item itemvalue="JUnit.CasualRuns.checkLocators" />
       </list>
     </recent_temporary>
-  </component>
-  <component name="ServiceViewManager">
-    <option name="viewStates">
-      <list>
-        <serviceView>
-          <treeState>
-            <expand />
-            <select />
-          </treeState>
-        </serviceView>
-      </list>
-    </option>
   </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="8c8b945f-228f-4ade-b020-dd4c5b56ebb4" name="Default Changelist" comment="" />
-      <created>1581786494484</created>
+      <changelist id="161c097d-a690-4063-ae10-b4f6ac98a7f2" name="Default Changelist" comment="" />
+      <created>1582234450691</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1581786494484</updated>
+      <updated>1582234450691</updated>
     </task>
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="137" y="20" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1581788359480">
-      <screen x="0" y="0" width="1366" height="728" />
+    <state x="320" y="96" key="#Inspections" timestamp="1582239659677">
+      <screen x="0" y="23" width="1440" height="816" />
     </state>
-    <state x="137" y="20" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1581788359480" />
-    <state x="92" y="92" width="1182" height="544" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1581977190047">
-      <screen x="0" y="0" width="1366" height="728" />
+    <state x="320" y="96" key="#Inspections/0.23.1440.816@0.23.1440.816" timestamp="1582239659677" />
+    <state x="320" y="99" width="800" height="717" key="#Intentions" timestamp="1582240183170">
+      <screen x="0" y="23" width="1440" height="816" />
     </state>
-    <state x="92" y="92" width="1182" height="544" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.0.1366.728@0.0.1366.728" timestamp="1581977190047" />
-    <state x="463" y="120" key="FileChooserDialogImpl" timestamp="1581964277164">
-      <screen x="0" y="0" width="1366" height="728" />
+    <state x="320" y="99" width="800" height="717" key="#Intentions/0.23.1440.816@0.23.1440.816" timestamp="1582240183170" />
+    <state x="286" y="107" key="#RunTest" timestamp="1582244481591">
+      <screen x="0" y="23" width="1440" height="814" />
     </state>
-    <state x="463" y="120" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1581964277164" />
-    <state width="1323" height="179" key="GridCell.Tab.0.bottom" timestamp="1581982718242">
-      <screen x="0" y="0" width="1366" height="728" />
+    <state x="286" y="107" key="#RunTest/0.23.1440.814@0.23.1440.814" timestamp="1582244481591" />
+    <state x="184" y="95" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1582244518307">
+      <screen x="0" y="23" width="1440" height="814" />
     </state>
-    <state width="1323" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1581982718242" />
-    <state width="1323" height="179" key="GridCell.Tab.0.center" timestamp="1581982718242">
-      <screen x="0" y="0" width="1366" height="728" />
+    <state x="184" y="95" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.814@0.23.1440.814" timestamp="1582244518307" />
+    <state x="184" y="95" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.816@0.23.1440.816" timestamp="1582241930750" />
+    <state x="184" y="95" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.821@0.23.1440.821" timestamp="1582235096099" />
+    <state x="457" y="224" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1582243736686">
+      <screen x="0" y="23" width="1440" height="814" />
     </state>
-    <state width="1323" height="179" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1581982718242" />
-    <state width="1323" height="179" key="GridCell.Tab.0.left" timestamp="1581982718242">
-      <screen x="0" y="0" width="1366" height="728" />
+    <state x="457" y="224" key="#com.intellij.ide.util.TreeClassChooserDialog/0.23.1440.814@0.23.1440.814" timestamp="1582243736686" />
+    <state x="458" y="187" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1582538937487">
+      <screen x="0" y="23" width="1440" height="814" />
     </state>
-    <state width="1323" height="179" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1581982718242" />
-    <state width="1323" height="179" key="GridCell.Tab.0.right" timestamp="1581982718242">
-      <screen x="0" y="0" width="1366" height="728" />
+    <state x="458" y="187" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.23.1440.814@0.23.1440.814" timestamp="1582538937487" />
+    <state x="344" y="33" key="CommitChangelistDialog2" timestamp="1582239620240">
+      <screen x="0" y="23" width="1440" height="816" />
     </state>
-    <state width="1323" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1581982718242" />
-    <state x="184" y="7" key="SettingsEditor" timestamp="1582062152615">
-      <screen x="0" y="0" width="1366" height="728" />
+    <state x="344" y="33" key="CommitChangelistDialog2/0.23.1440.816@0.23.1440.816" timestamp="1582239620240" />
+    <state width="1360" height="199" key="GridCell.Tab.0.bottom" timestamp="1582636923624">
+      <screen x="0" y="23" width="1440" height="816" />
     </state>
-    <state x="184" y="7" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1582062152615" />
-    <state x="379" y="189" key="com.intellij.ide.util.TipDialog" timestamp="1582154168721">
-      <screen x="0" y="0" width="1366" height="728" />
+    <state width="1360" height="199" key="GridCell.Tab.0.bottom/0.23.1440.814@0.23.1440.814" timestamp="1582623090768" />
+    <state width="1360" height="199" key="GridCell.Tab.0.bottom/0.23.1440.816@0.23.1440.816" timestamp="1582636923624" />
+    <state width="1360" height="199" key="GridCell.Tab.0.bottom/0.23.1440.821@0.23.1440.821" timestamp="1582623601673" />
+    <state width="1360" height="199" key="GridCell.Tab.0.center" timestamp="1582636923623">
+      <screen x="0" y="23" width="1440" height="816" />
     </state>
-    <state x="379" y="189" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1582154168721" />
+    <state width="1360" height="199" key="GridCell.Tab.0.center/0.23.1440.814@0.23.1440.814" timestamp="1582623090767" />
+    <state width="1360" height="199" key="GridCell.Tab.0.center/0.23.1440.816@0.23.1440.816" timestamp="1582636923623" />
+    <state width="1360" height="199" key="GridCell.Tab.0.center/0.23.1440.821@0.23.1440.821" timestamp="1582623601672" />
+    <state width="1360" height="199" key="GridCell.Tab.0.left" timestamp="1582636923623">
+      <screen x="0" y="23" width="1440" height="816" />
+    </state>
+    <state width="1360" height="199" key="GridCell.Tab.0.left/0.23.1440.814@0.23.1440.814" timestamp="1582623090767" />
+    <state width="1360" height="199" key="GridCell.Tab.0.left/0.23.1440.816@0.23.1440.816" timestamp="1582636923623" />
+    <state width="1360" height="199" key="GridCell.Tab.0.left/0.23.1440.821@0.23.1440.821" timestamp="1582623601672" />
+    <state width="1360" height="199" key="GridCell.Tab.0.right" timestamp="1582636923624">
+      <screen x="0" y="23" width="1440" height="816" />
+    </state>
+    <state width="1360" height="199" key="GridCell.Tab.0.right/0.23.1440.814@0.23.1440.814" timestamp="1582623090768" />
+    <state width="1360" height="199" key="GridCell.Tab.0.right/0.23.1440.816@0.23.1440.816" timestamp="1582636923624" />
+    <state width="1360" height="199" key="GridCell.Tab.0.right/0.23.1440.821@0.23.1440.821" timestamp="1582623601673" />
+    <state width="1360" height="248" key="GridCell.Tab.1.bottom" timestamp="1582328448932">
+      <screen x="0" y="23" width="1440" height="816" />
+    </state>
+    <state width="1360" height="248" key="GridCell.Tab.1.bottom/0.23.1440.814@0.23.1440.814" timestamp="1582243599501" />
+    <state width="1360" height="248" key="GridCell.Tab.1.bottom/0.23.1440.816@0.23.1440.816" timestamp="1582328448932" />
+    <state width="1360" height="248" key="GridCell.Tab.1.center" timestamp="1582328448931">
+      <screen x="0" y="23" width="1440" height="816" />
+    </state>
+    <state width="1360" height="248" key="GridCell.Tab.1.center/0.23.1440.814@0.23.1440.814" timestamp="1582243599500" />
+    <state width="1360" height="248" key="GridCell.Tab.1.center/0.23.1440.816@0.23.1440.816" timestamp="1582328448931" />
+    <state width="1360" height="248" key="GridCell.Tab.1.left" timestamp="1582328448931">
+      <screen x="0" y="23" width="1440" height="816" />
+    </state>
+    <state width="1360" height="248" key="GridCell.Tab.1.left/0.23.1440.814@0.23.1440.814" timestamp="1582243599500" />
+    <state width="1360" height="248" key="GridCell.Tab.1.left/0.23.1440.816@0.23.1440.816" timestamp="1582328448931" />
+    <state width="1360" height="248" key="GridCell.Tab.1.right" timestamp="1582328448932">
+      <screen x="0" y="23" width="1440" height="816" />
+    </state>
+    <state width="1360" height="248" key="GridCell.Tab.1.right/0.23.1440.814@0.23.1440.814" timestamp="1582243599501" />
+    <state width="1360" height="248" key="GridCell.Tab.1.right/0.23.1440.816@0.23.1440.816" timestamp="1582328448932" />
+    <state x="221" y="23" width="1024" height="816" key="SettingsEditor" timestamp="1582244433783">
+      <screen x="0" y="23" width="1440" height="814" />
+    </state>
+    <state x="221" y="23" key="SettingsEditor/0.23.1440.814@0.23.1440.814" timestamp="1582244433783" />
+    <state x="221" y="23" width="1024" height="816" key="SettingsEditor/0.23.1440.816@0.23.1440.816" timestamp="1582242396730" />
+    <state x="221" y="72" key="SettingsEditor/0.23.1440.821@0.23.1440.821" timestamp="1582235051976" />
+    <state x="397" y="265" key="com.intellij.ide.util.TipDialog" timestamp="1582536417632">
+      <screen x="0" y="23" width="1440" height="816" />
+    </state>
+    <state x="397" y="264" key="com.intellij.ide.util.TipDialog/0.23.1440.814@0.23.1440.814" timestamp="1582243371955" />
+    <state x="397" y="265" key="com.intellij.ide.util.TipDialog/0.23.1440.816@0.23.1440.816" timestamp="1582536417632" />
+    <state x="397" y="266" key="com.intellij.ide.util.TipDialog/0.23.1440.821@0.23.1440.821" timestamp="1582235063028" />
+    <state x="437" y="332" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1582242291365">
+      <screen x="0" y="23" width="1440" height="816" />
+    </state>
+    <state x="437" y="332" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.23.1440.816@0.23.1440.816" timestamp="1582242291365" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/test/java/steps/RunTest.java</url>
-          <line>11</line>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/test/java/RegressionSuite/CasualRuns.java</url>
+          <line>16</line>
+          <properties class="RegressionSuite.CasualRuns" method="checkLocators">
+            <option name="EMULATED" value="true" />
+          </properties>
           <option name="timeStamp" value="1" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/hubspot$RunTest.ic" NAME="RunTest Coverage Results" MODIFIED="1582243646869" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>steps.*</FILTER>
+    </SUITE>
   </component>
 </project>
