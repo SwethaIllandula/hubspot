@@ -2,87 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="161c097d-a690-4063-ae10-b4f6ac98a7f2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_virtuald_curvesapi_1_05.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_virtuald_curvesapi_1_052.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_code_findbugs_jsr305_1_3_9.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_code_gson_gson_2_8_5.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_errorprone_error_prone_annotations_2_1_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_guava_guava_25_0_jre.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_j2objc_j2objc_annotations_1_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_squareup_okhttp3_okhttp_3_11_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_squareup_okio_okio_1_14_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_codec_commons_codec_1_11.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_io_commons_io_2_6.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_logging_commons_logging_1_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__dom4j_dom4j_1_6_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__info_cukes_cucumber_core_1_2_5.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__info_cukes_cucumber_html_0_2_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__info_cukes_cucumber_java_1_2_5.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__info_cukes_cucumber_junit_1_2_5.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__info_cukes_cucumber_jvm_deps_1_0_5.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__info_cukes_gherkin_2_12_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_github_bonigarcia_webdrivermanager_3_7_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_12.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__log4j_log4j_1_2_8.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_bytebuddy_byte_buddy_1_8_15.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_collections4_4_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_compress_1_18.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_exec_1_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_lang3_3_8_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_math3_3_6_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpclient_4_5_6.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpcore_4_4_10.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_poi_openxml4j_1_0_beta.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_poi_poi_4_0_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_poi_poi_ooxml_4_0_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_poi_poi_ooxml_schemas_4_0_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_poi_poi_scratchpad_4_0_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_xmlbeans_xmlbeans_3_0_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_checkerframework_checker_compat_qual_2_0_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_mojo_animal_sniffer_annotations_1_14.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_all_1_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jsoup_jsoup_1_11_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_rauschig_jarchivelib_1_0_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_api_3_141_59.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_chrome_driver_3_141_59.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_edge_driver_3_141_59.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_firefox_driver_3_141_59.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_ie_driver_3_141_59.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_java_3_141_59.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_opera_driver_3_141_59.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_remote_driver_3_141_59.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_safari_driver_3_141_59.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_support_3_141_59.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_25.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__xml_apis_xml_apis_1_0_b2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Pages/CalendarPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/main.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/RegressionSuite/CasualRuns.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/steps/CalendarStepDefinitions.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/Calendarpage.feature" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/test.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/com.app.hubspot.com.iml" beforeDir="false" afterPath="$PROJECT_DIR$/com.app.hubspot.com.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Pages/CalendarPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Pages/CalendarPage.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/Pages/HomePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Pages/HomePage.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/Utilpackage/ElementUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Utilpackage/ElementUtils.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/steps/HomeStepDefinition.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/steps/HomeStepDefinition.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/steps/Hooks.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/steps/Hooks.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/RegressionSuite/CasualRuns.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/RegressionSuite/CasualRuns.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/steps/CalendarStepDefinitions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/steps/CalendarStepDefinitions.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/steps/RunTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/steps/RunTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/resources/Home.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/Home.feature" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/FreeCrmContactdata.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/FreeCrmContactdata.xlsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/com.app.hubspot.com.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/Calendarpage.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/Calendarpage.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Pages/CalendarPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Pages/CalendarPage.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/Pages/HomePage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Pages/HomePage.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/Utilpackage/ElementUtils.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Utilpackage/ElementUtils.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/Home.feature" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/Home.feature" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/steps/HomeStepDefinition.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/steps/HomeStepDefinition.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/steps/Hooks.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/steps/Hooks.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Calendarpage.feature" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/Calendarpage.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/RegressionSuite/CasualRuns.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/RegressionSuite/CasualRuns.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/steps/CalendarStepDefinitions.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/steps/CalendarStepDefinitions.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/test-classes/steps/RunTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/steps/RunTest.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -201,6 +134,10 @@
       <screen x="0" y="23" width="1440" height="814" />
     </state>
     <state x="286" y="107" key="#RunTest/0.23.1440.814@0.23.1440.814" timestamp="1582244481591" />
+    <state x="458" y="206" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog" timestamp="1583278490332">
+      <screen x="0" y="23" width="1440" height="822" />
+    </state>
+    <state x="458" y="206" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/0.23.1440.822@0.23.1440.822" timestamp="1583278490332" />
     <state x="184" y="95" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1582244518307">
       <screen x="0" y="23" width="1440" height="814" />
     </state>
@@ -219,30 +156,42 @@
       <screen x="0" y="23" width="1440" height="816" />
     </state>
     <state x="344" y="33" key="CommitChangelistDialog2/0.23.1440.816@0.23.1440.816" timestamp="1582239620240" />
-    <state width="1360" height="199" key="GridCell.Tab.0.bottom" timestamp="1582636923624">
-      <screen x="0" y="23" width="1440" height="816" />
+    <state width="1360" height="199" key="GridCell.Tab.0.bottom" timestamp="1583316315424">
+      <screen x="0" y="23" width="1440" height="822" />
     </state>
     <state width="1360" height="199" key="GridCell.Tab.0.bottom/0.23.1440.814@0.23.1440.814" timestamp="1582623090768" />
     <state width="1360" height="199" key="GridCell.Tab.0.bottom/0.23.1440.816@0.23.1440.816" timestamp="1582636923624" />
     <state width="1360" height="199" key="GridCell.Tab.0.bottom/0.23.1440.821@0.23.1440.821" timestamp="1582623601673" />
-    <state width="1360" height="199" key="GridCell.Tab.0.center" timestamp="1582636923623">
-      <screen x="0" y="23" width="1440" height="816" />
+    <state width="1360" height="199" key="GridCell.Tab.0.bottom/0.23.1440.822@0.23.1440.822" timestamp="1583316315424" />
+    <state width="1360" height="199" key="GridCell.Tab.0.bottom/0.23.1440.823@0.23.1440.823" timestamp="1583281967400" />
+    <state width="1360" height="199" key="GridCell.Tab.0.bottom/0.23.1440.825@0.23.1440.825" timestamp="1583142361110" />
+    <state width="1360" height="199" key="GridCell.Tab.0.center" timestamp="1583316315424">
+      <screen x="0" y="23" width="1440" height="822" />
     </state>
     <state width="1360" height="199" key="GridCell.Tab.0.center/0.23.1440.814@0.23.1440.814" timestamp="1582623090767" />
     <state width="1360" height="199" key="GridCell.Tab.0.center/0.23.1440.816@0.23.1440.816" timestamp="1582636923623" />
     <state width="1360" height="199" key="GridCell.Tab.0.center/0.23.1440.821@0.23.1440.821" timestamp="1582623601672" />
-    <state width="1360" height="199" key="GridCell.Tab.0.left" timestamp="1582636923623">
-      <screen x="0" y="23" width="1440" height="816" />
+    <state width="1360" height="199" key="GridCell.Tab.0.center/0.23.1440.822@0.23.1440.822" timestamp="1583316315424" />
+    <state width="1360" height="199" key="GridCell.Tab.0.center/0.23.1440.823@0.23.1440.823" timestamp="1583281967399" />
+    <state width="1360" height="199" key="GridCell.Tab.0.center/0.23.1440.825@0.23.1440.825" timestamp="1583142361109" />
+    <state width="1360" height="199" key="GridCell.Tab.0.left" timestamp="1583316315424">
+      <screen x="0" y="23" width="1440" height="822" />
     </state>
     <state width="1360" height="199" key="GridCell.Tab.0.left/0.23.1440.814@0.23.1440.814" timestamp="1582623090767" />
     <state width="1360" height="199" key="GridCell.Tab.0.left/0.23.1440.816@0.23.1440.816" timestamp="1582636923623" />
     <state width="1360" height="199" key="GridCell.Tab.0.left/0.23.1440.821@0.23.1440.821" timestamp="1582623601672" />
-    <state width="1360" height="199" key="GridCell.Tab.0.right" timestamp="1582636923624">
-      <screen x="0" y="23" width="1440" height="816" />
+    <state width="1360" height="199" key="GridCell.Tab.0.left/0.23.1440.822@0.23.1440.822" timestamp="1583316315424" />
+    <state width="1360" height="199" key="GridCell.Tab.0.left/0.23.1440.823@0.23.1440.823" timestamp="1583281967399" />
+    <state width="1360" height="199" key="GridCell.Tab.0.left/0.23.1440.825@0.23.1440.825" timestamp="1583142361109" />
+    <state width="1360" height="199" key="GridCell.Tab.0.right" timestamp="1583316315424">
+      <screen x="0" y="23" width="1440" height="822" />
     </state>
     <state width="1360" height="199" key="GridCell.Tab.0.right/0.23.1440.814@0.23.1440.814" timestamp="1582623090768" />
     <state width="1360" height="199" key="GridCell.Tab.0.right/0.23.1440.816@0.23.1440.816" timestamp="1582636923624" />
     <state width="1360" height="199" key="GridCell.Tab.0.right/0.23.1440.821@0.23.1440.821" timestamp="1582623601673" />
+    <state width="1360" height="199" key="GridCell.Tab.0.right/0.23.1440.822@0.23.1440.822" timestamp="1583316315424" />
+    <state width="1360" height="199" key="GridCell.Tab.0.right/0.23.1440.823@0.23.1440.823" timestamp="1583281967400" />
+    <state width="1360" height="199" key="GridCell.Tab.0.right/0.23.1440.825@0.23.1440.825" timestamp="1583142361110" />
     <state width="1360" height="248" key="GridCell.Tab.1.bottom" timestamp="1582328448932">
       <screen x="0" y="23" width="1440" height="816" />
     </state>
@@ -269,30 +218,17 @@
     <state x="221" y="23" key="SettingsEditor/0.23.1440.814@0.23.1440.814" timestamp="1582244433783" />
     <state x="221" y="23" width="1024" height="816" key="SettingsEditor/0.23.1440.816@0.23.1440.816" timestamp="1582242396730" />
     <state x="221" y="72" key="SettingsEditor/0.23.1440.821@0.23.1440.821" timestamp="1582235051976" />
-    <state x="397" y="265" key="com.intellij.ide.util.TipDialog" timestamp="1582536417632">
-      <screen x="0" y="23" width="1440" height="816" />
+    <state x="397" y="267" key="com.intellij.ide.util.TipDialog" timestamp="1583141378682">
+      <screen x="0" y="23" width="1440" height="823" />
     </state>
     <state x="397" y="264" key="com.intellij.ide.util.TipDialog/0.23.1440.814@0.23.1440.814" timestamp="1582243371955" />
     <state x="397" y="265" key="com.intellij.ide.util.TipDialog/0.23.1440.816@0.23.1440.816" timestamp="1582536417632" />
     <state x="397" y="266" key="com.intellij.ide.util.TipDialog/0.23.1440.821@0.23.1440.821" timestamp="1582235063028" />
+    <state x="397" y="267" key="com.intellij.ide.util.TipDialog/0.23.1440.823@0.23.1440.823" timestamp="1583141378682" />
     <state x="437" y="332" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1582242291365">
       <screen x="0" y="23" width="1440" height="816" />
     </state>
     <state x="437" y="332" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.23.1440.816@0.23.1440.816" timestamp="1582242291365" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/src/test/java/RegressionSuite/CasualRuns.java</url>
-          <line>16</line>
-          <properties class="RegressionSuite.CasualRuns" method="checkLocators">
-            <option name="EMULATED" value="true" />
-          </properties>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/hubspot$RunTest.ic" NAME="RunTest Coverage Results" MODIFIED="1582243646869" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">

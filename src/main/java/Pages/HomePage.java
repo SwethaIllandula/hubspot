@@ -19,7 +19,8 @@ public class HomePage extends DriverManager {
     @FindBy(xpath = "//li/a[@title='Calendar']")
     private WebElement calendarlink;
 
-    @FindBy(css = "a[title='New Event']")
+   // @FindBy(css = "a[title='New Event']")
+    @FindBy(css = "li>a[title='New Event']")
     private WebElement goToNewEvent;
 
 public HomePage(){
@@ -36,6 +37,7 @@ public boolean checkUserName(){
    return userLAbel.isDisplayed();
 }
 public CalendarPage calender(){
+
     ElementUtils.actionsToMoveToElement(driver,calendarlink);
     ElementUtils.actionsToMoveToElement(driver,goToNewEvent);
     goToNewEvent.click();

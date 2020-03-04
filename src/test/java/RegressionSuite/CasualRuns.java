@@ -3,10 +3,12 @@ package RegressionSuite;
 import io.github.bonigarcia.wdm.WebDriverManager;
 import org.junit.Test;
 import org.openqa.selenium.By;
+import org.openqa.selenium.JavascriptExecutor;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.interactions.Actions;
+import org.openqa.selenium.support.ui.Select;
 
 
 public class CasualRuns {
@@ -14,7 +16,7 @@ public class CasualRuns {
      static WebDriver driver;
 
     @Test
-    public void checkLocators(){
+    public void checkLocators() throws InterruptedException {
         WebDriverManager.chromedriver().setup();
         driver=new ChromeDriver();
         driver.get("https://classic.freecrm.com/index.html");
@@ -29,10 +31,51 @@ public class CasualRuns {
         Actions action = new Actions(driver);
         action.moveToElement(calendar).build().perform();
        // calendar.click();
-        WebElement newevent= driver.findElement(By.cssSelector("a[title='New Event']"));
+        WebElement newevent= driver.findElement(By.cssSelector("li>a[title='New Event']"));
         action.moveToElement(newevent).build().perform();
         newevent.click();
        // driver.quit();
+        driver.findElement(By.cssSelector("[id='title']")).sendKeys("Mrs");
+        driver.findElement(By.cssSelector("[id='btnClear']")).click();
+       WebElement date= driver.findElement(By.id("fieldId_start"));
+        WebElement dropdown =driver.findElement(By.name("category"));
+        dropdown.click();
+        selectDropDown(dropdown,"Optional");
+        Thread.sleep(5000);
+       driver.findElement(By.xpath("//input[@type='radio'and @value='Y']")).click();
+       driver.findElement(By.name("email_alert")).click();
+       driver.findElement(By.name("email_alert_contact")).click();
+       WebElement reminder=driver.findElement(By.name("reminder_minutes"));
+       selectDropDown(reminder,"1 Hour");
+       WebElement email=driver.findElement(By.name("reminder_type"));
+       selectDropDown(email,"Via Email");
+       driver.findElement(By.name("contact_lookup")).sendKeys("srikanth");
+        driver.findElement(By.name("client_lookup")).sendKeys("mavenIT");
+        driver.findElement(By.name("prospect_lookup")).sendKeys("jobdeal");
+        driver.findElement(By.name("task_lookup")).sendKeys("qa task");
+        driver.findElement(By.name("case_lookup")).sendKeys("test");
+        driver.findElement(By.name("location")).sendKeys("hello world");
+        driver.findElement(By.id("notes")).sendKeys("first meeting of team ");
+        driver.findElement(By.id("meeting_notes")).sendKeys("get laptops to perform seminar");
+        driver.findElement(By.id("tags")).sendKeys("Automation Tags");
+        driver.findElement(By.id("tags")).sendKeys("Automation Tags");
 
+
+
+    }
+
+
+    public void selectDateByJavaScriptExecutor(WebDriver driver,WebElement element,String dateval){
+        //JavascriptExecutor js = ((JavascriptExecutor)driver);
+       // js.executeScript("arguments[0].setAttribute('value','"+dateval+"')" element);
+        //String script=("arguments[0].setAttribute('value','"+dateval+"');";
+        JavascriptExecutor jse= (JavascriptExecutor)driver;
+        jse.executeScript("arguments[0].setAttribute('value','"+dateval+"');",element);
+        //jse.executeScript(script, element);
+    }
+
+    public void selectDropDown(WebElement element,String text){
+        Select select= new Select(element);
+        select.selectByVisibleText(text);
     }
 }

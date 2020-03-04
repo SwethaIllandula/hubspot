@@ -8,6 +8,7 @@ import org.openqa.selenium.JavascriptExecutor;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.interactions.Actions;
+import org.openqa.selenium.support.ui.Select;
 
 import java.io.FileInputStream;
 import java.io.FileNotFoundException;
@@ -68,7 +69,10 @@ public class ElementUtils extends DriverManager{
       element.click();
   }
 
-
+    public static void selectDropDown(WebElement element,String text){
+        Select select= new Select(element);
+        select.selectByVisibleText(text);
+    }
 
 
 public static void handleFrames(WebElement element){
