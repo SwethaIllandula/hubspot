@@ -1,22 +1,26 @@
 package RegressionSuite;
 
 import io.github.bonigarcia.wdm.WebDriverManager;
-import org.junit.Test;
 import org.openqa.selenium.By;
 import org.openqa.selenium.JavascriptExecutor;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.chrome.ChromeDriver;
-import org.openqa.selenium.interactions.Actions;
 import org.openqa.selenium.support.ui.Select;
+
+import java.io.IOException;
+import java.net.HttpURLConnection;
+import java.net.URL;
+import java.util.ArrayList;
+import java.util.List;
 
 
 public class CasualRuns {
 
      static WebDriver driver;
 
-    @Test
-    public void checkLocators() throws InterruptedException {
+
+    public void checkLocators() throws IOException {
         WebDriverManager.chromedriver().setup();
         driver=new ChromeDriver();
         driver.get("https://classic.freecrm.com/index.html");
@@ -27,14 +31,50 @@ public class CasualRuns {
        //WebElement element= driver.findElement(By.xpath("//a[@title='Calendar']"));
         driver.switchTo().frame("mainpanel");
         //WebElement calendar = driver.findElement(By.linkText("Calendar"));
-        WebElement calendar = driver.findElement(By.xpath("//li/a[@title='Calendar']"));
-        Actions action = new Actions(driver);
-        action.moveToElement(calendar).build().perform();
+        //WebElement calendar = driver.findElement(By.xpath("//li/a[@title='Calendar']"));
+        //Actions action = new Actions(driver);
+        ///action.moveToElement(calendar).build().perform();
        // calendar.click();
-        WebElement newevent= driver.findElement(By.cssSelector("li>a[title='New Event']"));
-        action.moveToElement(newevent).build().perform();
-        newevent.click();
-       // driver.quit();
+        //WebElement newevent= driver.findElement(By.cssSelector("li>a[title='New Event']"));
+       // action.moveToElement(newevent).build().perform();
+        //newevent.click();
+
+       List<WebElement> links= driver.findElements(By.tagName("a"));
+       links.addAll(driver.findElements(By.tagName("img")));
+       System.out.println("total links is:  " + links.size());
+
+       List<WebElement>activelinks = new ArrayList<WebElement>();
+       for(int i=0; i<links.size();i++) {
+           System.out.println(links.get(i).getAttribute("href"));
+           if (links.get(i).getAttribute("href") != null && (!links.get(i).getAttribute("href").contains("javascript"))) {
+               activelinks.add(links.get(i));
+           }
+       }
+
+       System.out.println("Active links are: " + activelinks.size());
+               for (int j = 0; j < activelinks.size(); j++) {
+                   //if (links.get(j).getAttribute("href") != null ) {
+                      HttpURLConnection connection = (HttpURLConnection) new URL(activelinks.get(j).getAttribute("href")).openConnection();
+                       connection.connect();
+                       String response = connection.getResponseMessage();
+                       System.out.println(activelinks.get(j).getAttribute("href" )+ "--->" + response);
+                       connection.disconnect();
+
+                   }
+
+
+              // }
+
+
+
+
+
+
+
+
+
+
+      /* // driver.quit();
         driver.findElement(By.cssSelector("[id='title']")).sendKeys("Mrs");
         driver.findElement(By.cssSelector("[id='btnClear']")).click();
        WebElement date= driver.findElement(By.id("fieldId_start"));
@@ -60,7 +100,7 @@ public class CasualRuns {
         driver.findElement(By.id("tags")).sendKeys("Automation Tags");
         driver.findElement(By.id("tags")).sendKeys("Automation Tags");
 
-
+*/
 
     }
 

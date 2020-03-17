@@ -80,8 +80,15 @@ public static void handleFrames(WebElement element){
 }
 
 
+public void selectDropDownByIndex(WebElement element,int number){
+        Select index= new Select(element);
+                index.selectByIndex(number);
+}
 
-
+    public void selectDropDownByValue(WebElement element,String value){
+        Select index= new Select(element);
+        index.selectByValue(value);
+    }
 
 
 

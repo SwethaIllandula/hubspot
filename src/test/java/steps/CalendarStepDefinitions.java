@@ -30,7 +30,7 @@ public class CalendarStepDefinitions  extends DriverManager {
        calendarPage= new CalendarPage();
         String calendartitle = calendarPage.getTitle();
         Assert.assertEquals("CRMPRO", calendartitle);
-        calendarPage.fillTheForm( "Contact", "Company", "Deal", "Task", "Case");
+        calendarPage.fillTheForm( Contact, Company, Deal, Task, Case);
     }
 
 
@@ -38,7 +38,7 @@ public class CalendarStepDefinitions  extends DriverManager {
 
     @When("^User also fills the form with \"([^\"]*)\" and  \"([^\"]*)\" and \"([^\"]*)\" and  \"([^\"]*)\"$")
     public void user_also_fills_the_form_with_and_and_and(String Tags, String location, String Notes, String Minutes) throws Throwable {
-       calendarPage.form( "Tags", "location", "Notes","Minutes");
+       calendarPage.form( Tags, location, Notes,Minutes);
 
     }
 

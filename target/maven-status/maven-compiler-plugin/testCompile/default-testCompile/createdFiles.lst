@@ -1,0 +1,5 @@
+steps/HomeStepDefinition.class
+steps/RunTest.class
+RegressionSuite/CasualRuns.class
+steps/CalendarStepDefinitions.class
+steps/Hooks.class

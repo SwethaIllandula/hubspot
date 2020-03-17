@@ -6,7 +6,7 @@ import org.junit.runner.RunWith;
 
 @RunWith(Cucumber.class)
 @CucumberOptions(
-        features = "src/test/resources/CalendarPage.feature",
+        features = "src/test/resources/Home.feature",
         //glue = "src/test/java/steps/CalendarStepDefinitions.java",
         dryRun = false
 )

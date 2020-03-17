@@ -9,6 +9,5 @@ Feature: To check or To fill details on CalendarPage
 
 
     Examples:
-      | Contact |Company | Deal| Task | Case | Tags | location | Notes | Minutes|
-
-     | Swetha |MavenITTechnologies | Jobdeals | QAtask | Test | AutomationTags | London | This is just to automate | 45Minutes|
+      | Contact | Company | Deal| Task | Case | Tags | location | Notes | Minutes|
+      | Swetha | MavenITTechnologies | Jobdeals | QAtask | Test | AutomationTags | London | This is just to automate | 45Minutes |
